@@ -1,0 +1,11 @@
+.form-control {
+font-size: 14px;
+padding: 5px;
+}
+
+header {
+    background-color: #00A1F1;
+    color: white;
+    border-bottom: 5px solid #ffbb00;
+    padding: 25px;
+}

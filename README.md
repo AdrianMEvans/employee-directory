@@ -8,7 +8,9 @@ An application that enables the to view create and track daily workouts. The use
 * [Technology Usage](#usage)
 * [User Story](#story)
 * [Instructions](#Instructions)
-* [Screenshots](#Screenshots)
+* [Deployment](#Deployment)
+* [Screenrecording](#Screenrecording)
+* [Acknowledgements](#Acknowledgements)
 * [Credits](#credits)
 
 
@@ -57,14 +59,18 @@ As a user, I want to be able to view my entire employee directory at once so tha
 User can enter search terms in the search bar. All columns will be searched.
 User can click on the column heading that it wants to sort by - either ascending or descending.
 
+
+## Deployment
+The App is Deployed via Heroku and can be visited by clicking _[here](https://employee-directory-2021.herokuapp.com/)_
+
 ## Screenrecording
 
 Screenrecording of employee directory showing search and sort functionality.\
 \
-  ![Recording](https://github.com/AdrianMEvans/WorkoutTracker/blob/main/Assets/LandingScreen.png?raw=true)
+  ![Recording](https://github.com/AdrianMEvans/employee-directory/blob/master/public/Screen%20Recording.gif?raw=true)
 
 
-## Acknowledgment
+## Acknowledgements
 
 _[Kristofer Selbekk](https://www.linkedin.com/in/selbekk/)_ for his very helpful _[article](https://www.smashingmagazine.com/2020/03/sortable-tables-react/)_ on creating sortable tables with React.
 
